@@ -1,4 +1,0 @@
-Command
-UserAuthPubKey$MyUserInfo
-UserAuthPubKey
-Command$MyUserInfo
